@@ -1,0 +1,9 @@
+Math javascript.pdf
+Physics pdfs/physics_syllabus.pdf
+Chemistry pdfs/chemistry_syllabus.pdf
+Biology pdfs/biology_syllabus.pdf
+ComputerScience pdfs/cs_syllabus.pdf
+Mathematics pdfs/math_advanced_syllabus.pdf
+MachineLearning pdfs/ml_syllabus.pdf
+ArtificialIntelligence pdfs/ai_syllabus.pdf
+DataScience pdfs/ds_syllabus.pdf
