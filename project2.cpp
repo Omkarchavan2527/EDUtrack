@@ -183,6 +183,6 @@ int main() {
         }
     }
 
-    cout << "\nThank you for using EduVault. Goodbye!\n";
+    cout << "\nThank you for using Edutrack. Goodbye!\n";
     return 0;
 }

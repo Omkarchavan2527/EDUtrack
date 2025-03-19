@@ -1,5 +1,5 @@
 Math javascript.pdf
-Physics pdfs/physics_syllabus.pdf
+Physics AD_HOC_WIRELESS_NETWORK_(E1)-MAY_2019_.pdf
 Chemistry pdfs/chemistry_syllabus.pdf
 Biology pdfs/biology_syllabus.pdf
 ComputerScience pdfs/cs_syllabus.pdf
