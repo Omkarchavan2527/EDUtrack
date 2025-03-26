@@ -105,23 +105,43 @@ void displaySyllabus(const string& subjectName) {
 }
 
 // Function to display past papers for a given subject
+// Function to display past papers for a given subject
 void displayPapers(const string& subjectName, int year, int semester) {
     ifstream file("papers.txt");
+    if (!file) {
+        cout << "Error: papers.txt file not found.\n";
+        return;
+    }
+
     string subject, paperFile;
     int paperYear, paperSemester;
 
     cout << "\nPast Papers for " << subjectName << " (" << year << " Semester " << semester << "):\n";
+    bool foundPaper = false; // Flag to check if we found any paper
+
     while (file >> subject >> paperYear >> paperSemester >> paperFile) {
         if (subject == subjectName && paperYear == year && paperSemester == semester) {
+            foundPaper = true;
             cout << "- " << paperFile << endl;
 
-            // Open the PDF file using the appropriate system command
-            openPDF(paperFile);
+            // Ask the user if they want to open the PDF
+            char choice;
+            cout << "Do you want to open  previous year question paper for this? (y/n): ";
+            cin >> choice;
 
-            return;
+            if (choice == 'y' || choice == 'Y') {
+                // Construct the full path to the paper (assuming papers are stored in the "papers" folder)
+                string fullPath = "papers/" + paperFile;
+
+                // Open the PDF file using the appropriate system command
+                openPDF(fullPath);  // Open the PDF with the correct path
+            }
         }
     }
-    cout << "No past papers found for " << subjectName << " (" << year << " Semester " << semester << ").\n";
+
+    if (!foundPaper) {
+        cout << "No past papers found for " << subjectName << " (" << year << " Semester " << semester << ").\n";
+    }
 }
 
 // Main function
@@ -129,7 +149,7 @@ int main() {
     string prn, password;
     
     // Student login
-    cout << "Welcome to the EduVault!\n";
+    cout << "Welcome to the Edutrack!\n";
     cout << "Please enter your PRN: ";
     cin >> prn;
     cout << "Please enter your password: ";
