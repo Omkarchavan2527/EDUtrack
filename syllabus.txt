@@ -1,9 +1,4 @@
-Math javascript.pdf
-Physics AD_HOC_WIRELESS_NETWORK_(E1)-MAY_2019_.pdf
-Chemistry pdfs/chemistry_syllabus.pdf
-Biology pdfs/biology_syllabus.pdf
-ComputerScience pdfs/cs_syllabus.pdf
-Mathematics pdfs/math_advanced_syllabus.pdf
-MachineLearning pdfs/ml_syllabus.pdf
-ArtificialIntelligence pdfs/ai_syllabus.pdf
-DataScience pdfs/ds_syllabus.pdf
+1 year1_syllabus.pdf
+2 year2_syllabus.pdf
+3 year3_syllabus.pdf
+4 year4_syllabus.pdf
