@@ -1,23 +1,42 @@
-Engineering-Physics 1 1
-Engineering-Mathematics-I 1 1
-Basic-Electrical-Engineering 1 1
-Basic-Civil-Engineering 1 1
-Engineering-Graphics 1 1
-Professional-Communication-I 1 1
-Workshop-Practice-I 1 1
+Engineering-Physics(Physics) 1 1
+Engineering-Mathematics-I(M1) 1 1
+Basic-Electrical-Engineering(BEE) 1 1
+Basic-Civil-Engineering(BCE) 1 1
+Engineering-Graphics(Graphics) 1 1
 
-Engineering-Chemistry 1 2
-Engineering-Mathematics-I 1 2
+Engineering-Chemistry(Chemistry) 1 2
+Engineering-Mathematics-I(M2) 1 2
 Fundamentals-of-Electronics-and-Computer-Programming 1 2
-Applied-Mechanics 1 2
-Basic-Mechanical-Engineering 1 2
-Professional-Communication-I 1 2
-Workshop-Practice-I 1 2
+Applied-Mechanics(APM) 1 2
+Basic-Mechanical-Engineering(BME) 1 2
 
-Biology 2 1
+applied-maths(AM) 2 1
+Discreate-Mathematics&structures(DMS) 2 1
+Data-structure(DS) 2 1
+CN-1 2 1
+Microprocessors(MP) 2 1
 
-ComputerScience 2 1
+Automata-theory(AT) 2 2
+CN-2 2 2
+COA 2 2
+Software-Engineering(SE) 2 2
+
+
 Mathematics 3 1
+Information-Security 3 1
+System-Programming 3 1
+Object-Oriented-Modeling&Design 3 1
+Computer-Algorithms 3 1
+Computer-Graphics&Multimedia 3 1
+
 MachineLearning 3 2
+Compiler-Construction 3 2
+Operating-System-II 3 2
+Database-Engineering 3 2
+E-Commerce&Digital-Marketing 3 2
+
 ArtificialIntelligence 4 1
 DataScience 4 2
+
+
+

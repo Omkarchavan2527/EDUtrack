@@ -1,9 +1,15 @@
-Math 1 1 math_paper_2022.pdf
-Physics 1 1 ADVANCED COMPUTER ARCHITECTURE DEC 2018.pdf
+M1 1 1 math_paper_2022.pdf
+Physics 1 1 Engineering_Physics-Nov19.pdf
+Graphics 1 1 Engineering-graphics.pdf
+
 Chemistry 1 2 chemistry_paper_2021.pdf
-Biology 2 1 biology_paper_2022.pdf
+
+math2 1 2 Engineering-M2.pdf
 ComputerScience 2 1 cs_paper_2021.pdf
+SE 2 2 SOFTWARE_ENGINEERING-MAY_2019_.pdf
+
 Mathematics 3 1 math_advanced_paper_2022.pdf
 MachineLearning 3 2 ml_paper_2021.pdf
+
 ArtificialIntelligence 4 1 ai_paper_2020.pdf
 DataScience 4 2 ds_paper_2021.pdf

@@ -233,7 +233,7 @@ int main()
         displaySubjects(year, semester);
 
         // Select a subject
-        cout << "\nEnter a subject name to view syllabus and past papers: ";
+        cout << "\nEnter a subject name to view syllabus and past papers(eg. M1): ";
         cin.ignore(); // To handle the newline character left in the buffer
         getline(cin, subjectName);
 
