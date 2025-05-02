@@ -2,18 +2,18 @@ Engineering-Physics(Physics) 1 1
 Engineering-Mathematics-I(M1) 1 1
 Basic-Electrical-Engineering(BEE) 1 1
 Basic-Civil-Engineering(BCE) 1 1
-Engineering-Graphics(Graphics) 1 1
+Engineering-Graphics(GRAPHICS) 1 1
 
-Engineering-Chemistry(Chemistry) 1 2
+Engineering-Chemistry(CHEMISTRY) 1 2
 Engineering-Mathematics-I(M2) 1 2
-Fundamentals-of-Electronics-and-Computer-Programming 1 2
+Fundamentals-of-Electronics-and-Computer-Programming(FEC) 1 2
 Applied-Mechanics(APM) 1 2
 Basic-Mechanical-Engineering(BME) 1 2
 
 applied-maths(AM) 2 1
 Discreate-Mathematics&structures(DMS) 2 1
 Data-structure(DS) 2 1
-CN-1 2 1
+CN 2 1
 Microprocessors(MP) 2 1
 
 Automata-theory(AT) 2 2
@@ -22,21 +22,29 @@ COA 2 2
 Software-Engineering(SE) 2 2
 
 
-Mathematics 3 1
-Information-Security 3 1
-System-Programming 3 1
-Object-Oriented-Modeling&Design 3 1
-Computer-Algorithms 3 1
-Computer-Graphics&Multimedia 3 1
+Information-Security(IS) 3 1
+System-Programming(SP) 3 1
+Object-Oriented-Modeling&Design(OOMAD) 3 1
+Computer-Algorithms(CA) 3 1
+Computer-Graphics&Multimedia(CGM) 3 1
 
-MachineLearning 3 2
-Compiler-Construction 3 2
-Operating-System-II 3 2
-Database-Engineering 3 2
-E-Commerce&Digital-Marketing 3 2
+MachineLearning(ML) 3 2
+Compiler-Construction(CC) 3 2
+Operating-System-II(OS-2) 3 2
+Database-Engineering(DE) 3 2
 
-ArtificialIntelligence 4 1
-DataScience 4 2
+ArtificialIntelligence(AI) 4 1
+real_time_operating_system(RTOS) 4 1
+project_management(PM) 4 1
+data_analysis(DA) 4 1
+internet_of_things(IOT) 4 1
+Software_testing&quality_assurance(STAQS) 4 1
+
+Ad-hoc-wireless-network(AHWN) 4 2 
+mobile_application(MA) 4 2
+advanced-database-System(ADS) 4 2
+distributed-System(DIS) 4 2 
+advanced-Computer-architecture(ACA) 4 2
 
 
 
